@@ -2,11 +2,11 @@
 The source code of paper "Superpixel-Based Multi-Scale Multi-Instance Learning for Hyperspectral Image Classification".
 
 If you use this code, please cite our work:
-```bash
+```
 Shiluo Huang, Zheng Liu, Wei Jin, Ying Mu. "Superpixel-based multi-scale multi-instance learning for hyperspectral image classification." Pattern Recognition (2024): 110257.
 ```
 or
-```bash
+```
 @article{HUANG2024110257,
 title = {Superpixel-based multi-scale multi-instance learning for hyperspectral image classification},
 journal = {Pattern Recognition},
