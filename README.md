@@ -1,7 +1,7 @@
 # MSMIL4Hyper
 The source code of paper "Superpixel-Based Multi-Scale Multi-Instance Learning for Hyperspectral Image Classification".
 
-we use [HMS](https://github.com/psellcam/Superpixel-Contracted-Graph-Based-Learning-for-Hyperspectral-Image-Classification) for superpixel segmentation.
+We use [HMS](https://github.com/psellcam/Superpixel-Contracted-Graph-Based-Learning-for-Hyperspectral-Image-Classification) for superpixel segmentation.
 
 Then users can try `MSMIL` by running the following command:
 ```bash
